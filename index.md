@@ -7,7 +7,7 @@ hero:
   text: "一个VitePress文档"
   tagline: 念念不忘，必有回响
   image:
-    src: /background.svg
+    src: ./public/background.svg
     alt: 背景图
   actions:
     - theme: brand

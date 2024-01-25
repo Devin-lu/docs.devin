@@ -26,7 +26,7 @@ export default defineConfig({
     ]
     ,
     footer: {
-      copyright: 'Copyright © 2024 Devin Lu '
+      copyright: 'Copyright © 2024 Devin Lu'
     }
   }
 })

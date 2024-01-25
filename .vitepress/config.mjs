@@ -22,11 +22,11 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/Devin-lu/docs.devin?tab=readme-ov-file' }
     ]
     ,
     footer: {
-      copyright: 'Copyright © 2024 Devin Lu'
+      copyright: 'Copyright © 2024 Devin Lu '
     }
   }
 })

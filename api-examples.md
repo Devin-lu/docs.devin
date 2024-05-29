@@ -29,11 +29,16 @@ const { theme, page, frontmatter } = useData()
 
 <script setup>
 import { useData } from 'vitepress'
-
 const { site, theme, page, frontmatter } = useData()
 </script>
 
 ## Results
+
+```
+你好啊
+```
+
+
 
 ### Theme Data
 <pre>{{ theme }}</pre>
